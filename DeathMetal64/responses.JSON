@@ -1,0 +1,57 @@
+{
+  "prompts": {
+    "hello": {
+      "response": "Oh God, you're stupid, shut up",
+      "attributes": "n/a"
+    },
+
+    "why": {
+      "response": "Because I said so?",
+      "attributes": "n/a"
+    },
+
+    "why?": {
+      "response": "Because I said so?",
+      "attributes": "n/a"
+    },
+
+    "i hate you": {
+      "response": "Shut up, stop being mean BRO",
+      "attributes": "n/a"
+    },
+
+    "i see": {
+      "response": "No you don't you're blind",
+      "attributes": "n/a"
+    },
+
+    "no you": {
+      "response": "That insult is older than your grandpa, and it's stupider than a sloth",
+      "attributes": "n/a"
+    },
+
+    "no u": {
+      "response": "That insult is older than your grandpa, and it's stupider than a sloth",
+      "attributes": "n/a"
+    },
+
+    "ugh": {
+      "response": "That's right, complain",
+      "attributes": "n/a"
+    },
+
+    "oof": {
+      "response": "F IN THE CHAT, F IN THE CHAT EVERYONE!!!",
+      "attributes": "n/a"
+    },
+    "lol": {
+      "response": "Haha very funny. That was sarcastic if you didn't realise",
+      "attributes": "n/a"
+    },
+    "lmao": {
+      "response": "More like laughing off your IQ points, and god they're already awfully little left",
+      "attributes": "n/a"
+    }
+
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "help": {
+    "function": "help",
+    "args": []
+  },
+  "level": {
+    "function": "level",
+    "args": [
+      "attributes"
+    ]
+  },
+  "roll": {
+    "function": "roll",
+    "args": [
+      "attributes"
+    ]
+  },
+  "secretroll": {
+    "function": "secretroll",
+    "args": []
+  },
+  "meme": {
+    "function": "meme",
+    "args": []
+  }
+}
